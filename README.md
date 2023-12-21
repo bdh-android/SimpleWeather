@@ -1,11 +1,11 @@
 # Simple Weather
-
-This application is implemented in MVVM Architecture pattern using java.
+SimpleWeather is an android application for getting information about weather,
+and it is implemented in MVVM Architecture pattern and using java.
 
 ## Features
 User can do following:
 -Display weather information according to their geographic locations.
--search and add many cities(provided by the accuweather api) they want to get thier weather information.
+-Search and add many cities(provided by the accuweather api) they want to get thier weather information.
 -Display weather information by day(5 days) and by hour(12 hours).
 
 
@@ -29,8 +29,7 @@ API_KEY=insert your key
 ```
 
 ### media
-![simpleweather1](screenshots\simpleweather1.png)
-![simpleweather2](screenshots\simpleweather2.png)
-![simpleweather3](screenshots\simpleweather3.png)
-![simpleweather4](screenshots\simpleweather4.png)
-![simpleweather5](screenshots\simpleweather5.png)
+<img src="screenshots/simpleweather1.png" alt="simpleweather1" width = 400/> <img src="screenshots/simpleweather2.png" alt="simpleweather2" width = 400/>
+<img src="screenshots/simpleweather3.png" alt="simpleweather3" width = 400/><img src="screenshots/simpleweather4.png" alt="simpleweather4" width = 400/>
+<img src="screenshots/simpleweather5.png" alt="simpleweather5" width = 400/>
+
